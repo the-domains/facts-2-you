@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-27T12:59:12.333Z'
+datePublished: '2016-08-27T13:06:44.278Z'
 sourcePath: _posts/2016-07-15-visit-grand-teton-in-this-8k-timelapse.md
 inFeed: true
 hasPage: true
@@ -17,7 +17,7 @@ keywords:
 related: []
 author: []
 via: {}
-dateModified: '2016-08-27T12:58:59.243Z'
+dateModified: '2016-08-27T13:06:43.697Z'
 title: Ruin trees
 app_links: []
 publisher: {}
@@ -33,7 +33,7 @@ _type: MediaObject
 
 ---
 # Ruin trees
-![Trees from Ta Prohm](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0817457e-8395-4611-9b75-a62b7c2e8aa7.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d5fc21ec-c531-4a4d-bcd4-ce8b09855b86.jpg)
 
 These silk cotton trees grow with their roots out of the ground, covering the ruins.
 
