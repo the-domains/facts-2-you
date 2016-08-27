@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Facts 2 You]]></title>
+        <description><![CDATA[Facts 2 You]]></description>
+        <link>https://thegrid.ai/facts-2-you/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 27 Aug 2016 13:06:46 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/facts-2-you/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Ruin trees]]></title>
+            <description><![CDATA[<article><h1>Ruin trees</h1><p>These silk cotton trees grow with their roots out of the ground, covering the ruins.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d5fc21ec-c531-4a4d-bcd4-ce8b09855b86.jpg"></article>]]></description>
+            <link>https://thegrid.ai/facts-2-you/ruin-trees/index.html</link>
+            <guid isPermaLink="false">bed6e991-1ed1-413a-8794-70e8cb61ba9b</guid>
+            <pubDate>Sat, 27 Aug 2016 13:06:44 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
