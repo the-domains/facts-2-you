@@ -1,11 +1,9 @@
 ---
-datePublished: '2016-08-26T19:17:59.375Z'
+datePublished: '2016-08-26T20:18:40.727Z'
 sourcePath: >-
   _posts/2016-04-16-underwater-dogs-photographs-of-dogs-underwater-by-seth-cast.md
 inFeed: true
-isBasedOnUrl: >-
-  http://www.telegraph.co.uk/news/picturegalleries/howaboutthat/9630536/Underwater-Dogs-photographs-of-dogs-underwater-by-Seth-Casteel.html
-hasPage: false
+hasPage: true
 keywords:
   - casteel
   - seth
@@ -19,7 +17,7 @@ keywords:
   - water
 related: []
 author: []
-dateModified: '2016-08-26T19:17:58.208Z'
+dateModified: '2016-08-26T20:18:40.083Z'
 title: 'Underwater Dogs: photographs of dogs underwater by Seth Casteel'
 app_links: []
 publisher:
@@ -35,6 +33,7 @@ inLanguage: en
 inNav: false
 via: {}
 starred: false
+url: underwater-dogs-photographs-of-dogs-underwater-by-seth-cast/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
