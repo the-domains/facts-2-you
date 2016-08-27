@@ -13,11 +13,11 @@ color:
 layout_spectrum: 0.00010380358435213566
 name: Facts 2 You
 navigation:
-  - name: Trees
-    id: bed6e991-1ed1-413a-8794-70e8cb61ba9b
-    type: content
   - name: Games
     id: 9fb521eb-c074-436a-806e-94c8e9e14b43
+    type: content
+  - name: Trees
+    id: bed6e991-1ed1-413a-8794-70e8cb61ba9b
     type: content
 title: Facts 2 You
 description: Interesting facts for you and your friends
