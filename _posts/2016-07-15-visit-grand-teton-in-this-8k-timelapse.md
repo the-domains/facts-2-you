@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-27T13:06:44.278Z'
+datePublished: '2016-08-27T13:14:49.975Z'
 sourcePath: _posts/2016-07-15-visit-grand-teton-in-this-8k-timelapse.md
 inFeed: true
 hasPage: true
@@ -17,7 +17,7 @@ keywords:
 related: []
 author: []
 via: {}
-dateModified: '2016-08-27T13:06:43.697Z'
+dateModified: '2016-08-27T13:10:31.575Z'
 title: Ruin trees
 app_links: []
 publisher: {}
@@ -33,8 +33,8 @@ _type: MediaObject
 
 ---
 # Ruin trees
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d5fc21ec-c531-4a4d-bcd4-ce8b09855b86.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d4f69639-5c01-4aa1-9548-2ef317e505ff.jpg)
 
 These silk cotton trees grow with their roots out of the ground, covering the ruins.
 
-The temple of Ta Prohm was the main location for the movie "Tomb Raider" and is the most visited location of Cambodia.
+The temple of Ta Prohm was the main location for the movie "Tomb Raider" and is the most visited location in Cambodia.
