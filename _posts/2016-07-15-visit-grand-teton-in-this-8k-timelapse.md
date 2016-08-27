@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-26T20:14:54.899Z'
+datePublished: '2016-08-27T11:25:39.936Z'
 sourcePath: _posts/2016-07-15-visit-grand-teton-in-this-8k-timelapse.md
 inFeed: true
 hasPage: true
@@ -16,26 +16,25 @@ keywords:
   - 500-square-mile
 related: []
 author: []
-dateModified: '2016-08-26T20:14:54.162Z'
-title: Visit Grand Teton in this 8K Timelapse
+via: {}
+dateModified: '2016-08-27T11:25:39.100Z'
+title: Ruin trees
 app_links: []
-publisher:
-  url: 'http://petapixel.com'
-  name: PetaPixel
-  favicon: 'http://petapixel.com/wp-content/themes/petapixel/assets/favicon.ico'
-  domain: petapixel.com
+publisher: {}
 description: >-
-  In 2014, brother filmmakers Will and Jim Pattiz launched their More Than Just
-  Parks project, an ambitious effort to celebrate America's 59 National Parks by
-  creating a visual experience at each one. Their latest film showcases Grand
-  Teton National Park in Wyoming in 8K resolution.
+  These silk cotton trees grow with their roots out of the ground, covering the
+  ruins.
 inLanguage: en
 inNav: false
-via: {}
 starred: false
 url: visit-grand-teton-in-this-8k-timelapse/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Visit Grand Teton in this 8K Timelapse</h1><p>In 2014, brother filmmakers Will and Jim Pattiz launched their More Than Just Parks project, an ambitious effort to celebrate America's 59 National Parks by creating a visual experience at each one. Their latest film showcases Grand Teton National Park in Wyoming in 8K resolution.</p><img src="http://petapixel.com/assets/uploads/2016/07/grandtetonfeat.jpg" /></article>
+# Ruin trees
+![Trees from Ta Prohm](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0817457e-8395-4611-9b75-a62b7c2e8aa7.jpg)
+
+These silk cotton trees grow with their roots out of the ground, covering the ruins.
+
+The temple of Ta Prohm was the main location for the movie "Tomb Raider" and is the most visited location of Cambodia.
