@@ -1,16 +1,16 @@
-typography_spectrum: 0.30720033566467464
+layout_spectrum: 0.00010380358435213566
+typography_spectrum: 0.8892486214172095
 color:
-  brandStrength: 0.8911324664950371
-  lightness: 0.13208623207174242
-  saturation: 0.648985743522644
-  rhythmicContrast: 0.9935279034543782
+  brandStrength: 0.9332259213551879
+  lightness: 0.062043274752795696
+  saturation: 0.8782714842818677
+  rhythmicContrast: 0.14188251877203584
   brandColors:
     - '#16193B'
     - '#35478C'
     - '#4E7AC7'
     - '#7FB2F0'
     - '#ADD5F7'
-layout_spectrum: 0.9322826850693673
 name: Facts 2 You
 title: Facts 2 You
 description: Interesting facts for you and your friends
