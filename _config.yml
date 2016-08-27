@@ -1,16 +1,14 @@
-typography_spectrum: 0.7228619458619505
+layout_spectrum: 0.9322826850693673
+typography_spectrum: 0.30720033566467464
 color:
-  brandStrength: 0.1367366046179086
-  lightness: 0.5130530726164579
-  saturation: 0.2617712935898453
-  rhythmicContrast: 0.7555676472838968
+  brandStrength: 0.8911324664950371
+  lightness: 0.13208623207174242
+  saturation: 0.648985743522644
+  rhythmicContrast: 0.9935279034543782
   brandColors:
-    - '#16193B'
-    - '#35478C'
-    - '#4E7AC7'
-    - '#7FB2F0'
-    - '#ADD5F7'
-layout_spectrum: 0.24734921217896044
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
 name: Facts 2 You
-title: Facts 2 You
-description: Interesting facts for everybody
