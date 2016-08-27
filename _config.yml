@@ -1,4 +1,3 @@
-layout_spectrum: 0.00010380358435213566
 typography_spectrum: 0.8892486214172095
 color:
   brandStrength: 0.9332259213551879
@@ -11,6 +10,11 @@ color:
     - '#4E7AC7'
     - '#7FB2F0'
     - '#ADD5F7'
+layout_spectrum: 0.00010380358435213566
 name: Facts 2 You
+navigation:
+  - name: Trees
+    id: bed6e991-1ed1-413a-8794-70e8cb61ba9b
+    type: content
 title: Facts 2 You
 description: Interesting facts for you and your friends
