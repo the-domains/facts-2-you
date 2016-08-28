@@ -1,7 +1,7 @@
 ---
-datePublished: '2016-08-27T13:52:42.907Z'
+datePublished: '2016-08-27T14:07:08.029Z'
 sourcePath: _posts/2016-07-15-visit-grand-teton-in-this-8k-timelapse.md
-inFeed: true
+inFeed: false
 hasPage: true
 keywords:
   - teton
@@ -17,7 +17,7 @@ keywords:
 related: []
 author: []
 via: {}
-dateModified: '2016-08-27T13:52:42.295Z'
+dateModified: '2016-08-27T14:07:07.408Z'
 title: Ruin trees
 app_links: []
 publisher: {}
