@@ -1,16 +1,18 @@
 ---
-datePublished: '2016-08-27T14:03:10.334Z'
-inFeed: true
+datePublished: '2016-08-28T07:45:25.103Z'
+sourcePath: _posts/2016-08-27-giant-sequoias.md
+inFeed: false
+hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-27T14:03:02.809Z'
+dateModified: '2016-08-28T07:43:57.607Z'
 title: Giant sequoias
 publisher: {}
 description: >-
   These trees are the largest living things and they live up to 3500 years,
-  being the oldest things on Earth.  
+  being the oldest things on Earth.
 starred: false
-sourcePath: _posts/2016-08-27-giant-sequoias.md
+url: giant-sequoias/index.html
 _type: Blurb
 
 ---
