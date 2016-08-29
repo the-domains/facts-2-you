@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-27T14:07:08.029Z'
+datePublished: '2016-08-28T07:48:52.902Z'
 sourcePath: _posts/2016-07-15-visit-grand-teton-in-this-8k-timelapse.md
 inFeed: false
 hasPage: true
@@ -17,13 +17,14 @@ keywords:
 related: []
 author: []
 via: {}
-dateModified: '2016-08-27T14:07:07.408Z'
+dateModified: '2016-08-28T07:48:52.360Z'
 title: Ruin trees
 app_links: []
 publisher: {}
 description: >-
   These silk cotton trees grow with their roots out of the ground, covering the
-  ruins.
+  ruins. The temple of Ta Prohm was the main location for the movie “Tomb
+  Raider” and is the most visited location in Cambodia.
 inLanguage: en
 inNav: false
 starred: false
@@ -33,8 +34,10 @@ _type: MediaObject
 
 ---
 # Ruin trees
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d4f69639-5c01-4aa1-9548-2ef317e505ff.jpg)
+![Trees from Ta Prohm](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d4f69639-5c01-4aa1-9548-2ef317e505ff.jpg)
 
-These silk cotton trees grow with their roots out of the ground, covering the ruins.
+These silk cotton trees grow with their roots out of the ground, covering the ruins. The temple of Ta Prohm was the main location for the movie "Tomb Raider" and is the most visited location in Cambodia.
 
-The temple of Ta Prohm was the main location for the movie "Tomb Raider" and is the most visited location in Cambodia.
+# Giant sequoias
+
+These trees are the largest living things and they live up to 3500 years, being the oldest things on Earth.
