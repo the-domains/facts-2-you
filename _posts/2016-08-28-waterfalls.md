@@ -1,17 +1,19 @@
 ---
-datePublished: '2016-08-28T18:02:01.814Z'
-inFeed: true
-author: []
-via: {}
-dateModified: '2016-08-28T18:01:56.841Z'
+id: c85b12f1-b42d-449b-9f77-d70432b3f68b
+dateModified: '2016-08-28T18:03:27.041Z'
 title: Waterfalls
-publisher: {}
+datePublished: '2016-08-28T18:03:27.607Z'
+author: []
+hasPage: true
 description: >-
   On the Beu river is one of the most spectacular cascades from “Cheile
   Nerei-Beușnița” National Park. Nera river valley and canyon are the longest in
   the country with a height of over 200 m.
+publisher: {}
+via: {}
 starred: false
 sourcePath: _posts/2016-08-28-waterfalls.md
+url: waterfalls/index.html
 _type: Blurb
 
 ---
