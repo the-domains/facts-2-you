@@ -1,12 +1,13 @@
 ---
-datePublished: '2016-08-28T07:41:10.810Z'
-inFeed: true
-author: []
-via: {}
-dateModified: '2016-08-28T07:40:58.736Z'
+id: 047c8987-7260-4fe4-8186-c64a06e5f178
+dateModified: '2016-08-28T18:07:01.465Z'
 title: Amazing facts
-publisher: {}
+datePublished: '2016-08-28T18:08:23.733Z'
+author: []
+inFeed: true
 description: A collection of unbelievable and interesting facts…
+publisher: {}
+via: {}
 starred: false
 sourcePath: _posts/2016-08-28-amazing-facts.md
 _type: Blurb
